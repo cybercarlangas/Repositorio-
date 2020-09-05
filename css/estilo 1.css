@@ -1,0 +1,114 @@
+body{
+    background-color: aquamarine;
+    }
+    .pollo{
+        width: 30%;
+        padding: 20px;
+    }
+    nav{background: #222222;
+    padding: 10px;
+    text-align:center;}
+    li
+    {
+        display: inline;color: cornflowerblue;padding:10px;
+    }
+    .juanito{
+        background-image: url("../img 2/tendencias.jpg");
+        height: 1200px;
+        background-size: 100%;
+        
+    }
+    nav{
+        text-align: right;
+    }.IA{
+        background: url("visual studio/ia4.jpg")
+   }
+   .IA-img{
+padding: 30px;
+   }
+   .IA h3{
+       color: darkgreen;
+   }
+   .IA h2{
+       color: darkmagenta;
+   }
+   .video{
+       background-color: darkseagreen;
+       text-align: center;
+       padding: 10px;
+   }
+   .menu{
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+   }   
+   .logo{
+       width: 100px;
+   }
+   .menu ol li{
+       display: inline;
+       padding: 10px;
+   }
+   .menu ol li a {
+       color: orange;
+      text-decoration: none;
+   }
+   .planetas{
+       text-align: center;
+       background-image: url("../img 2/background.jpg");
+       color: whitesmoke;
+    background-size: 200px;
+    font-family: 'Sora', sans-serif;
+    padding: 100px;
+ }
+ h1 strong{ 
+     color: red;
+ }
+   .planetas-boton{
+width: 150px;
+height: 200px;
+background-color: lightslategray;
+border-radius: 24px;
+border: none;
+font-size: 24px;
+cursor: pointer;
+margin-top: 30px;
+}
+
+
+.padre{
+width: 200px;
+height: 200px;
+border-radius: 2px;
+background-color: lightslategrey;
+justify-content: center;
+}
+
+.hijo{
+width: 100px;
+height: 100px;
+border-radius: 2px;
+background-color: mediumaquamarine;
+}
+
+.presidente{
+    display:flex;
+}
+
+.aplicar{
+height: 500px;
+background-color: mediumslateblue;
+display: flex;
+}
+
+.aplicar-detalles{
+width: 50%;
+height: 500px;
+justify-content: center;
+align-items:center;
+}
+
+.aplicar-detalles img{
+height: 90%;
+
+}

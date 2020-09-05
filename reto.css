@@ -1,0 +1,16 @@
+/*Reto css */
+body{
+	background-color: green;
+}
+.uno{
+	background-color: black;
+	color:white;
+}
+.dos{
+	background-color: yellow;
+	color: black; 
+}
+.tres{
+	background-color: red;
+	color:yellow;
+}
